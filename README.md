@@ -14,3 +14,7 @@ config file name：jupyter_notebook_config.py
 (2)search the ley word "c.NotebookApp.notebook_dir" in jupyter_notebook_config.py
 
 (3)edit and uncomment
+
+2. how to connect to github when the connection is timeout:443
+
+    https://blog.csdn.net/natahew/article/details/81387885
