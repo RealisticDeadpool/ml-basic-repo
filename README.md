@@ -11,7 +11,7 @@ Linux/macOS: /Users/<user_name>/.jupyter/ or ~/.jupyter/
 
 config file name：jupyter_notebook_config.py
 
-(2)search the ley word "c.NotebookApp.notebook_dir" in jupyter_notebook_config.py
+(2)search the key word "c.NotebookApp.notebook_dir" in jupyter_notebook_config.py
 
 (3)edit and uncomment
 
