@@ -11,12 +11,16 @@ Linux/macOS: /Users/<user_name>/.jupyter/ or ~/.jupyter/
 
 config file name：jupyter_notebook_config.py
 
-(2)search the ley word "c.NotebookApp.notebook_dir" in jupyter_notebook_config.py
+(2)search the key word "c.NotebookApp.notebook_dir" in jupyter_notebook_config.py
 
 (3)edit and uncomment
 
 2. how to connect to github when the connection is timeout:443: https://blog.csdn.net/natahew/article/details/81387885
 
+
 3. some resources:
 
 https://pypi.tuna.tsinghua.edu.cn/simple
+
+https://blog.csdn.net/natahew/article/details/81387885
+
