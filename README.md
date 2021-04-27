@@ -22,5 +22,3 @@ config file name：jupyter_notebook_config.py
 
 https://pypi.tuna.tsinghua.edu.cn/simple
 
-https://blog.csdn.net/natahew/article/details/81387885
-
