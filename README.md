@@ -21,3 +21,9 @@ config file name：jupyter_notebook_config.py
 3. some resources: https://pypi.tuna.tsinghua.edu.cn/simple
 
 4. python -m http.server 8012
+
+5. The parameters for Jupyter's UI words:
+   F12 --> Ctrl+F --> CodeMirror-Code
+    font-family: consolas;
+    font-size: 18px;
+    line-height: 20px;
