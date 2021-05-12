@@ -25,5 +25,5 @@ config file name：jupyter_notebook_config.py
 5. The parameters for Jupyter's UI words:
    F12 --> Ctrl+F --> CodeMirror-Code
     font-family: consolas;
-    font-size: 18px;
-    line-height: 20px;
+    font-size: 13px;
+    line-height: 15px;
