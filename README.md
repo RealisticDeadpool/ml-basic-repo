@@ -18,9 +18,12 @@ config file name：jupyter_notebook_config.py
 2. how to connect to github when the connection is timeout:443: https://blog.csdn.net/natahew/article/details/81387885
 
 
-3. some resources:
+3. some resources: https://pypi.tuna.tsinghua.edu.cn/simple
 
-https://pypi.tuna.tsinghua.edu.cn/simple
+4. python -m http.server 8012
 
-https://blog.csdn.net/natahew/article/details/81387885
-
+5. The parameters for Jupyter's UI words:
+   F12 --> Ctrl+F --> CodeMirror-Code
+    font-family: consolas;
+    font-size: 13px;
+    line-height: 15px;
